@@ -4,7 +4,7 @@ Software developer and founder of **[Eldarisoft](https://www.eldarisoft.fi)** â€
 
 ---
 
-**What I'm building**
+**What I'm building in 2026**
 
 - **[Eldarisoft AI](https://ai.eldarisoft.fi)** â€” Production-ready AI chatbot demo built with Claude API + Cloudflare Workers
 
