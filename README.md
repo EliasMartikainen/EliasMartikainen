@@ -23,10 +23,14 @@ Software developer and founder of **[Eldarisoft](https://www.eldarisoft.fi)** �
 
 ---
 
-**GitHub Stats**
+markdown**About Eldarisoft**
 
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasMartikainen&show_icons=true&theme=tokyonight&hide_border=true)
+Eldarisoft is a Finnish software company specializing in custom web applications and AI integrations for small and medium-sized businesses.
 
+- 🇫🇮 Based in Finland
+- Specializing in AI solutions for businesses
+- Building modern web applications
+- Open for collaborations and client projects
 ---
 
 [![eldarisoft.fi](https://img.shields.io/badge/eldarisoft.fi-0f0f0f?style=for-the-badge&logo=firefox&logoColor=white)](https://www.eldarisoft.fi)
