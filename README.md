@@ -23,11 +23,11 @@ Software developer and founder of **[Eldarisoft](https://www.eldarisoft.fi)** �
 
 ---
 
-markdown**About Eldarisoft**
+**About Eldarisoft**
 
 Eldarisoft is a Finnish software company specializing in custom web applications and AI integrations for small and medium-sized businesses.
 
-- 🇫🇮 Based in Finland
+- Based in Finland
 - Specializing in AI solutions for businesses
 - Building modern web applications
 - Open for collaborations and client projects
